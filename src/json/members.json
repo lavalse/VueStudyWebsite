@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "井上洋希",
+    "url": "hirokiinoue",
+    "ename": "Hiroki Inoue",
+    "title": "CTO  /  Illustrator",
+    "tel": null,
+    "website": null
+  },
+  {
+    "id": 1,
+    "name": "田村賢哉",
+    "url": "kenyatamura",
+    "ename": "Kenya Tamura",
+    "title": "CEO  / Geographer",
+    "tel": null,
+    "website": null
+  },
+  {
+    "id": 2,
+    "name": "小宮 慎之介",
+    "url": "shinnosukekomiya",
+    "ename": "Shinnosuke Komiya",
+    "title": "CDO",
+    "tel": "080-3590-5414",
+    "website": null
+  },
+  {
+    "id": 3,
+    "name": "岡田 未知",
+    "url": "michiokada",
+    "ename": "Michi Okada",
+    "title": "Artist / Designer / Planner",
+    "tel": null,
+    "website": "https://www.michiokada.com/"
+  },
+  {
+    "id": 4,
+    "name": "田村 詔子",
+    "url": "shokotamura",
+    "ename": "Shoko TAMURA",
+    "title": "事務/経理",
+    "tel": null,
+    "website": null
+  },
+  {
+    "id": 5,
+    "name": "馬場英道",
+    "url": "hidemichibaba",
+    "ename": "Hidemichi Baba",
+    "title": "エンジニア",
+    "tel": null,
+    "website": "https://github.com/HideBa"
+  },
+  {
+    "id": 6,
+    "name": "三雲有彩",
+    "url": "arisamikumo",
+    "ename": "ARISA MIKUMO",
+    "title": "Designer / Engineer",
+    "tel": null,
+    "website": null
+  },
+  {
+    "id": 7,
+    "name": "許 聰",
+    "url": "xucong",
+    "ename": "Xu Cong",
+    "title": "Designer",
+    "tel": null,
+    "website": "http://surrealred.com/"
+  }
+]

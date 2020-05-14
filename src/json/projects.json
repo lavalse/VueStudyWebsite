@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "name": "Mapup",
+    "url": "mapup",
+    "website": "https://mapup.jp/",
+    "type": "researches",
+    "select": true
+  },
+  {
+    "id": 1,
+    "name": "Re:Earth",
+    "url": "reearth",
+    "website": "https://reearth.io",
+    "type": "researches",
+    "select": true
+  },
+  {
+    "id": 2,
+    "name": "APLLO",
+    "url": "apllo",
+    "website": "https://APLLO.jp/",
+    "type": "researches",
+    "select": true
+  },
+  {
+    "id": 3,
+    "name": "Resium",
+    "url": "resium",
+    "website": "https://resium.darwineducation.com",
+    "type": "researches",
+    "select": true
+  },
+  {
+    "id": 4,
+    "name": "ふるさと〇〇博物館",
+    "url": "maruhakualps",
+    "website": "http://maruhakualps.jp/",
+    "type": "works",
+    "select": true
+  },
+  {
+    "id": 5,
+    "name": "CO・OP PEACE MAP",
+    "url": "cooppeacemap",
+    "website": "https://coop.archiving.jp/",
+    "type": "works",
+    "select": true
+  },
+  {
+    "id": 6,
+    "name": "ノーモアヒバクシャ・記憶遺産を継承する会アーカイブ",
+    "url": "kiokuisan",
+    "website": "https://xxxxx.jp/",
+    "type": "works",
+    "select": false
+  },
+  {
+    "id": 7,
+    "name": "Peace Nippon",
+    "url": "peacenippon",
+    "website": "https://peacenippon.org/",
+    "type": "works",
+    "select": false
+  },
+  {
+    "id": 8,
+    "name": "エリアカルテ",
+    "url": "areakarte",
+    "website": "https://areakarte.netlify.app/",
+    "type": "works",
+    "select": false
+  },
+  {
+    "id": 9,
+    "name": "経営危機自治体",
+    "url": "keieikiki",
+    "website": "https://keieikiki.jp/",
+    "type": "works",
+    "select": false
+  },
+  {
+    "id": 10,
+    "name": "しのばず文化遺産プロジェクト",
+    "url": "shinobazu",
+    "website": "http://shinobazu.apllo.io/cesium/",
+    "type": "works",
+    "select": false
+  },
+  {
+    "id": 11,
+    "name": "足立慶友整形外科",
+    "url": "trailheads",
+    "website": "https://trailheads.jp/works/adachi-keiyu-orthopedics/",
+    "type": "works",
+    "select": false
+  },
+  {
+    "id": 12,
+    "name": "起業特別ゼミ",
+    "url": "makersu",
+    "website": "https://makers-u.jp/people/mentor-interview/cross-interview2",
+    "type": "works",
+    "select": false
+  }
+]
