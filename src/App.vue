@@ -1,21 +1,14 @@
 <template>
   <div id="app">
-
     <SiteNav :ispc="ispc"></SiteNav>
-
     <router-view></router-view>
-
     <SiteFooter :ispc="ispc"></SiteFooter>
-
   </div>
 </template>
-
-
 
 <script>
 import SiteNav from '@/components/SiteNav'
 import SiteFooter from '@/components/SiteFooter'
-
 
 export default {
   name: 'App',
@@ -62,5 +55,5 @@ export default {
 </script>
 
 
-<style>
+<style lang="scss">
 </style>

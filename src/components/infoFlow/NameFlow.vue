@@ -1,7 +1,7 @@
 <template>
 <div class="nameflow">
   <swiper class="nameswiper" :options="swiperOption">
-    <swiper-slide v-for="data in datas" v-bind:key="data.id" v-if="(data.id >= min && data.id <= max) "> 
+    <swiper-slide v-for="data in datas" v-bind:key="data.id"> 
       <span>-----</span>
         {{ data.name }} / {{ data.ename }} / {{ data.title}}
       <span>-----</span>
@@ -26,6 +26,7 @@
     },
     data() {
       return {
+        datas: mydata,
         swiperOption: {
           loop : true,
           speed: this.speed,
@@ -38,11 +39,8 @@
             el: '.swiper-pagination',
             clickable: true
           }
-        },
-       datas: mydata,
-
-      }
-      
+        },       
+      }      
     }
   }
 </script>
