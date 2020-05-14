@@ -26,9 +26,11 @@
         swiperOption: {
           loop : true,
           speed: 3000,
-          autoplay: {
-            delay: 1000,//1秒切换一次
-          },
+          // autoplay: {
+          //   delay: 1000,//1秒切换一次
+          // },
+          freeMode: true,
+          freeModeMomentumRatio: 2,
           slidesPerView: 3,
           spaceBetween: 30,
           pagination: {
