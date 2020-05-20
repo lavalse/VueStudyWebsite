@@ -5,7 +5,8 @@
     "url": "mapup",
     "website": "https://mapup.jp/",
     "type": "researches",
-    "select": true
+    "select": true,
+    "description": "地理に特化した、教員向け動画学習サイト。2020年初春〜の新型ウイルスによる学問への影響から、制作に至った。〜〜や〜〜を用いた〜〜（技術的説明等書いてください）"
   },
   {
     "id": 1,
@@ -13,7 +14,8 @@
     "url": "reearth",
     "website": "https://reearth.io",
     "type": "researches",
-    "select": true
+    "select": true,
+    "description": "視覚的にインパクトのある3Dの地図表現やデータビジュアライゼーション、デジタルアーカイブを、プログラミングなしで誰でも簡単に作成・公開することができるWebサービス。データベースとの連携機能により、データベース内のデータをすぐに表現することができる。\r\nスクリーン リーダーのサポートが有効になっています。"
   },
   {
     "id": 2,
@@ -21,7 +23,8 @@
     "url": "apllo",
     "website": "https://APLLO.jp/",
     "type": "researches",
-    "select": true
+    "select": true,
+    "description": "プログラミングなしでもデータを構造化された形で保存し、閲覧・検索ができ、構造をいつでも気軽に変えることができる、「丈夫で柔らかい」データベース・CMS。Re:Earthなど様々なアプリケーションとも連携して、データの入力から、情報の整理、解析、ビジュアライゼーションまでをワンストップで提供する。絶えず進化を続けるデジタルアーカイブの用途に適するデータベース。"
   },
   {
     "id": 3,
@@ -29,7 +32,8 @@
     "url": "resium",
     "website": "https://resium.darwineducation.com",
     "type": "researches",
-    "select": true
+    "select": true,
+    "description": "React（ユーザーインターフェースを構築するためのコンポートネント）でCesium（バーチャル地球儀に情報を可視化するためのプラットフォーム）を使うためのライブラリ。OSSとしてGitHub上で公開され、当社でメンテナンスしています。"
   },
   {
     "id": 4,
@@ -37,7 +41,8 @@
     "url": "maruhakualps",
     "website": "http://maruhakualps.jp/",
     "type": "works",
-    "select": true
+    "select": true,
+    "description": "南アルプス市ふるさと〇〇博物館プロジェクトのデジタルアーカイブ。デジタル地球儀上の南アルプス市に、地元市民や子供達の収集した情報を表示し、土地情報に即した直感的な理解を助けるシステムを設計した。\r\nまた、時代ごとの情報カテゴライズによる表示の出し分けなど、ウェブでの地図表現の可能性を多元的に拡張した。"
   },
   {
     "id": 5,
@@ -45,15 +50,17 @@
     "url": "cooppeacemap",
     "website": "https://coop.archiving.jp/",
     "type": "works",
-    "select": true
+    "select": true,
+    "description": "全国各地の日本生協連による平和活動を、インターネットの地図上でわかりやすく紹介している。日本生活共同組合連合会（CO•OP）の「平和とよりよい生活のために」という理念に基づいたピースアクションの一環として作成。"
   },
   {
     "id": 6,
-    "name": "ノーモアヒバクシャ・記憶遺産を継承する会アーカイブ",
+    "name": "ノーモアヒバクシャ",
     "url": "kiokuisan",
     "website": "https://xxxxx.jp/",
     "type": "works",
-    "select": false
+    "select": false,
+    "description": "特定非営利活動法人である、ノーモア・ヒバクシャ記憶遺産を継承する会の被爆者証言アーカイブサイト。「ヒロシマ」にとどまりがちな被曝体験者のイメージを拡張するため、全国に存在する被爆体験者の証言をデジタル地図上にマッピングし、より身近に感じられるよう紹介している。"
   },
   {
     "id": 7,
@@ -61,7 +68,8 @@
     "url": "peacenippon",
     "website": "https://peacenippon.org/",
     "type": "works",
-    "select": false
+    "select": false,
+    "description": "Peace NipponPeace NipponPeace NipponPeace NipponPeace NipponPeace NipponPeace NipponPeace NipponPeace NipponPeace NipponPeace Nippon"
   },
   {
     "id": 8,
@@ -69,7 +77,8 @@
     "url": "areakarte",
     "website": "https://areakarte.netlify.app/",
     "type": "works",
-    "select": false
+    "select": false,
+    "description": "国立精神・神経医療研究センターと株式会社マイクロベース、ダーウィンエデュケーション3社の共同OSS開発プロジェクト。地方自治体のオープンデータを機械学習によりデータ加工を、得られた統計データを地図上にマッピングし、誰もがデータを簡単に可視化することができるツールを開発しました。"
   },
   {
     "id": 9,
@@ -77,15 +86,17 @@
     "url": "keieikiki",
     "website": "https://keieikiki.jp/",
     "type": "works",
-    "select": false
+    "select": false,
+    "description": "経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体経営危機自治体"
   },
   {
     "id": 10,
-    "name": "しのばず文化遺産プロジェクト",
+    "name": "しのばず文化遺産",
     "url": "shinobazu",
     "website": "http://shinobazu.apllo.io/cesium/",
     "type": "works",
-    "select": false
+    "select": false,
+    "description": "しのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクトしのばず文化遺産プロジェクト"
   },
   {
     "id": 11,
@@ -93,7 +104,8 @@
     "url": "trailheads",
     "website": "https://trailheads.jp/works/adachi-keiyu-orthopedics/",
     "type": "works",
-    "select": false
+    "select": false,
+    "description": "病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計病院のコンセプト設計"
   },
   {
     "id": 12,
@@ -101,6 +113,7 @@
     "url": "makersu",
     "website": "https://makers-u.jp/people/mentor-interview/cross-interview2",
     "type": "works",
-    "select": false
+    "select": false,
+    "description": "Makers Universityで黒越誠治さんの起業特別ゼミ「クロコム」に、メンターとして参加しています。起業家特別ゼミ「クロコム」は、MAKERS期間中に登記する意思のあるメンバーであれば、誰でも参加できる横断型のゼミ。他のゼミが4〜7人なのに対し、クロコムは毎年20人ほどが参加するコミュニティ型のゼミとなっている。3月には4泊5日の合宿、4月以降も毎月1泊2日と、圧倒的な時間がクロコム最大の特徴だ。"
   }
 ]

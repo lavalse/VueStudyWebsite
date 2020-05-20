@@ -22,7 +22,7 @@
             <router-link to="/works">works</router-link>
           </div>
           <div class="nav_button">
-            <router-link to="/works">Join us</router-link>
+            <router-link to="/join">Join us</router-link>
           </div>
           <div class="nav_button">
             <a href="https://github.com/darwin-education">
@@ -49,7 +49,7 @@
               <router-link to="/works">works</router-link>
             </div>
             <div class="nav_button">
-              <router-link to="/works">Join us</router-link>
+              <router-link to="/join">Join us</router-link>
             </div>
             <div class="nav_button">
               <a href="https://github.com/darwin-education">
@@ -69,16 +69,24 @@
 export default {
   name: 'websideNav',
   props:['ispc'],
+
   data() {
     return {
       isshow: false,
     }
   },
+
   methods:{
     showbutton: function(){
       this.isshow = !this.isshow
     }
-  }
+  },
+
+  watch: {
+      '$route' () {
+        this.isshow = false // 对路由变化作出响应...
+      }
+  },
 }
 </script>
 

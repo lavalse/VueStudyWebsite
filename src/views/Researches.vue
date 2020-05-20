@@ -1,7 +1,7 @@
 <template>
 
   <div class="researchesbox">
-    <WorkFlow v-for="data in filtedmydate" v-bind:key="data.id" :info = data ></WorkFlow>
+    <WorkFlow class="row" v-for="data in filtedmydate" v-bind:key="data.id" :info= data :slice= 6></WorkFlow>
 
   </div>
 
@@ -25,7 +25,11 @@ export default {
 <style lang="scss">
 
 .researchesbox {
-  margin-top: 500px;
+  margin-top: 200px;
+
+  .row {
+    margin-top: 20px;
+  }
 }
 
 </style>

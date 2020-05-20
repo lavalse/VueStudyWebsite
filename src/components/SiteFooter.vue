@@ -1,5 +1,6 @@
 <template>
     <div class="footer">
+      <div class="line"></div>
       this is footer
     </div>
 </template>
@@ -12,8 +13,8 @@ export default {
 </script>
 
 
-<style lang="scss">
-$footerbg: rgba(120,120,120,1);
+<style lang="scss" scoped>
+$footerbg: rgb(245, 245, 245);
 
 .footer {
   margin-top: 50px;

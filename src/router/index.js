@@ -1,5 +1,6 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
+import VueScrollTo from "vue-scrollto"
 
 import Main from '@/views/Main'
 import About from '@/views/About'
@@ -9,8 +10,10 @@ import Works from '@/views/Works'
 import Join from '@/views/Join'
 import Person from "@/views/Person"
 import Onework from "@/views/Onework"
+import Notfound from "@/views/Notfound"
 
 Vue.use(VueRouter);
+Vue.use(VueScrollTo);
 
 const routes = [
   {
@@ -30,7 +33,7 @@ const routes = [
   },
   {
     path: '/members/:id',
-    component: Person
+    component: Person,
   },
   {
     path: '/researches',
@@ -55,10 +58,21 @@ const routes = [
     name: 'Join',
     component: Join
   },
+  {
+    path: '/404',
+    name: '404',
+    component: Notfound
+  }
 ];
 
 const router = new VueRouter({
   routes
 });
+
+router.afterEach(() => {
+  setTimeout(()=>{
+      VueScrollTo.scrollTo('body', 0);
+    },10);
+})
 
 export default router;

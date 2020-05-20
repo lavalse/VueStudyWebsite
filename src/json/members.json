@@ -6,7 +6,8 @@
     "ename": "Hiroki Inoue",
     "title": "CTO  /  Illustrator",
     "tel": null,
-    "website": null
+    "website": null,
+    "description": "井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希井上洋希"
   },
   {
     "id": 1,
@@ -15,7 +16,8 @@
     "ename": "Kenya Tamura",
     "title": "CEO  / Geographer",
     "tel": null,
-    "website": null
+    "website": null,
+    "description": "田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉田村賢哉"
   },
   {
     "id": 2,
@@ -24,7 +26,8 @@
     "ename": "Shinnosuke Komiya",
     "title": "CDO",
     "tel": "080-3590-5414",
-    "website": null
+    "website": null,
+    "description": "小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介小宮慎之介"
   },
   {
     "id": 3,
@@ -33,7 +36,8 @@
     "ename": "Michi Okada",
     "title": "Artist / Designer / Planner",
     "tel": null,
-    "website": "https://www.michiokada.com/"
+    "website": "https://www.michiokada.com/",
+    "description": "岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知岡田未知"
   },
   {
     "id": 4,
@@ -42,7 +46,8 @@
     "ename": "Shoko TAMURA",
     "title": "事務/経理",
     "tel": null,
-    "website": null
+    "website": null,
+    "description": "田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田村詔子田"
   },
   {
     "id": 5,
@@ -51,7 +56,8 @@
     "ename": "Hidemichi Baba",
     "title": "エンジニア",
     "tel": null,
-    "website": "https://github.com/HideBa"
+    "website": "https://github.com/HideBa",
+    "description": "馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道馬場英道"
   },
   {
     "id": 6,
@@ -60,15 +66,17 @@
     "ename": "ARISA MIKUMO",
     "title": "Designer / Engineer",
     "tel": null,
-    "website": null
+    "website": null,
+    "description": "三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩三雲有彩"
   },
   {
     "id": 7,
     "name": "許 聰",
     "url": "xucong",
     "ename": "Xu Cong",
-    "title": "Designer",
+    "title": "Artist / Designer / Planner",
     "tel": null,
-    "website": "http://surrealred.com/"
+    "website": "http://surrealred.com/",
+    "description": "許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰許聰"
   }
 ]
